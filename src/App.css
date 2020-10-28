@@ -99,7 +99,7 @@ html {
   top: 15%;
   left: 25%;
   width: 65%;
-  height: 75%;
+  height: 55%;
   color: white;
   padding: 30px;
   overflow-y: scroll;
@@ -109,6 +109,9 @@ html {
   margin: 32px;
   display: flex;
   flex-direction: row;
+}
+.vid-box h1{
+  width: 20%;
 }
 .vid-box p{
   width: 50%;
@@ -121,7 +124,7 @@ html {
   top: 15%;
   left: 25%;
   width: 50%;
-  height: 75%;
+  height: 55%;
   color: white;
   padding: 30px;
   overflow-y: scroll;
