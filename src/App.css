@@ -96,10 +96,10 @@ html {
 
 .center-panel-portfolio{
   position: absolute;
-  top: 20%;
+  top: 25%;
   left: 25%;
   width: 65%;
-  height: 55%;
+  height: 60%;
   color: white;
   padding: 30px;
   overflow-y: scroll;
@@ -121,10 +121,10 @@ html {
 
 .blog-list{
   position: absolute;
-  top: 20%;
+  top: 25%;
   left: 25%;
   width: 50%;
-  height: 55%;
+  height: 60%;
   color: white;
   padding: 30px;
   overflow-y: scroll;
@@ -143,12 +143,20 @@ html {
 
 .blog-window{
   position: absolute;
-  top: 15%;
+  top: 20%;
   left: 25%;
   width: 65%;
-  height: 75%;
+  height: 60%;
   color: white;
   padding: 30px;
   overflow-y: scroll;
   background-color: rgba(0, 0, 0, 0.5);
+}
+
+.blog-window h1{
+  font-size: 48px;
+}
+
+.blog-window p{
+  font-size: 22px;
 }
