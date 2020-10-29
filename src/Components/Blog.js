@@ -8,7 +8,8 @@ class Blog extends React.Component {
             index++
             return(
                 <div key={index} className="blog-item" onClick={()=> this.handleBlogClick(blog)}>
-                    <h1>{blog.title}</h1>
+                    <h1>{`• ${blog.title}`}</h1>
+                    <br/>
                 </div>
             ) 
         })

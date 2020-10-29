@@ -25,6 +25,21 @@ class Portfolio extends React.Component {
 
                     </p>
                 </div>
+                <hr/>
+                <div className="vid-box">
+                    <h1>Jmakon</h1>
+                    <p>This is an overview of my mod 2 project for Flatiron School software engineering bootcamp. This was built using Ruby on Rails.</p>
+                    <iframe title="Jmakon" width="560" height="315" src="https://www.youtube.com/embed/JJou4egZLu4" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullscreen></iframe>
+                   
+                </div>
+                <hr/>
+                <div className="vid-box">
+                    <h1>Compendium</h1>
+                    <iframe title="Compendium" width="560" height="315" src="https://www.youtube.com/embed/u64NSyRjAZI" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullscreen></iframe>
+                    <p>This was my mod 1 project for Flatiron School Software Engineering Bootcamp. This was built with Ruby.
+
+                    </p>
+                </div>
             </div>
         )
     }

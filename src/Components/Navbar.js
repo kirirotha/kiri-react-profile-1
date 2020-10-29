@@ -10,10 +10,10 @@ class Navbar extends React.Component {
             <div className="nav-bar">
                 <h1>Kiri Um</h1>
                 <div className="nav-button-container">
-                    <button></button>
-                    <button></button>
-                    <button></button>
-                    <button></button>
+                    <button className="github"></button>
+                    <button className="linkedin"></button>
+                    <button className="facebook"></button>
+                    <button className="youtube"></button>
                 </div>
             </div>
         )
