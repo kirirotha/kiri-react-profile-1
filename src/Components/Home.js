@@ -6,7 +6,8 @@ class Home extends React.Component {
         return (
             <div className="center-panel">
                 <h1>
-                    Hi, my name is Kiri Um. I am a full stack software developer.
+                    {`Hi, my name is Kiri Um. 
+                    I am a full-stack software developer.`}
                 </h1>
             </div>
         )
