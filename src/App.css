@@ -226,3 +226,14 @@ button:focus, input:focus{
   justify-content: space-between;
   flex-direction: row;
 }
+
+.footer{
+  bottom: 0px;
+  display: flex;
+  align-items: end;
+  height: 30%;
+  margin-bottom: 10%;
+  margin-left: 40%;
+  align-items: flex-end;
+  color: rgba(255, 255, 255, 0.38);
+}

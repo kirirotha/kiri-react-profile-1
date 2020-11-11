@@ -61,6 +61,7 @@ class Main extends React.Component {
                 {this.state.mode === "blog" ? <Blog blogData={this.state.blogData} selectBlog={this.selectBlog}/> : null}
                 {this.state.mode === "showBlog" ? <BlogWindow blog={this.state.selectedBlog}/> : null}
                 {this.state.mode === "contact" ? <Contact/> : null}
+                <div className = "footer"> This was built by me, Kiri Um, using React</div>
             </div>
         )
     }
