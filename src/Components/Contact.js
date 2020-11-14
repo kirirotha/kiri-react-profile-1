@@ -6,7 +6,7 @@ class Contact extends React.Component {
         return (
             <div className="center-panel">
                 <h2>
-                    Feel free to contact me through email at kirirotha@gmail.com or find me on LinkedIn. I would love to meet with you!
+                    Feel free to contact me through email at <a href = "mailto: kirirotha@gmail.com">kirirotha@gmail</a> or find me on LinkedIn. I would love to meet with you!
                 </h2>
             </div>
         )
