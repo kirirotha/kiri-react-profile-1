@@ -121,6 +121,7 @@ button:focus, input:focus{
   width: 50%;
   height: 50%;
   color: white;
+  overflow-y: scroll;
   white-space: pre-line;
 }
 
