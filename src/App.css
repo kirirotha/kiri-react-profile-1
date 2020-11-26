@@ -118,7 +118,7 @@ button:focus, input:focus{
   position: absolute;
   top: 25%;
   left: 25%;
-  width: 50%;
+  width: 65%;
   height: 50%;
   color: white;
   overflow-y: scroll;
