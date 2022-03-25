@@ -10,6 +10,25 @@ class Resume extends React.Component {
                 </h1>
                 <div className="work-title">
                     <div>
+                        <h4>Bullhorn </h4><h5>Software Developer</h5>
+                    </div>
+                    <h5>
+                        {`February 2021 – Currently Employed
+                        Houston, Texas`}
+                    </h5>
+                </div>
+                
+                
+                <p>    
+                    {
+                    `• Contributed to the backend code of a web-based application using Java, Spring, Sql
+                    • Maintianed and improved frontend UI experience using Angular and Javascript
+                    • Helped with product release and deploy cycles
+                    • Assisted with Agile and Scrum procedures`}
+                </p>
+                <br/>
+                <div className="work-title">
+                    <div>
                         <h4>Reservoir Geophysical Corp </h4><h5>Geophysicist</h5>
                     </div>
                     <h5>
